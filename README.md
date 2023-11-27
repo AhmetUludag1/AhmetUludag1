@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ahmet. I am 20 years old and I am a computer programmer. I live in Isparta. My specialty is web development
+Hello, I am Ahmet. I am 20 years old and I am a computer programmer. I live in Isparta. My specialty is web development and mobile programing .
 
 
 ## 🌐 Socials:
